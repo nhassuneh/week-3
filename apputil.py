@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # update/add code below ...
-def fib(n):
+def fibonacci(n):
     """
     Compute the nth Fibonacci number using recursion with a helper function.
 
